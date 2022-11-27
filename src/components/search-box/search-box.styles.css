@@ -1,0 +1,18 @@
+.search-box {
+    border:none;
+    outline:none;
+    padding:10px;
+    width:200px;
+    line-height:30px;
+    margin-bottom:30px;
+    border:2px solid #0ccac4;
+    color:#061e53;
+    font-weight:bold;
+    border-radius: 15px;
+}
+
+.search-box::placeholder {
+     color:#061e53;
+         
+}
+ 
